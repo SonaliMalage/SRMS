@@ -1,0 +1,19 @@
+
+.result-block table, th, td{
+    border:1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+.result-block table {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 50px;
+    width: 90%;
+    align-self: center;
+
+}
+
+.result-block th , td{
+    
+}
+
